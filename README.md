@@ -35,4 +35,6 @@ Statistics (HTML Report – Stress Test) <img width="1553" height="417" alt="Str
 
 Excel Report (Stress Test) <img width="1215" height="291" alt="Stress test strategy" src="https://github.com/user-attachments/assets/c815de99-7908-4d05-a048-48f91b302194" />
 
+- Author: Syed Shahanur Mahmud Pranto
+- Email: prantosm33@gmail.com
 
