@@ -33,7 +33,8 @@ Request Summary (Stress Test) <img width="1536" height="684" alt="Stress request
 
 Statistics (HTML Report – Stress Test) <img width="1553" height="417" alt="Stress statistics" src="https://github.com/user-attachments/assets/2c56b936-983d-4a18-a30e-3b694c4722bb" />
 
-Excel Report (Stress Test) <img width="1215" height="291" alt="Stress test strategy" src="https://github.com/user-attachments/assets/c815de99-7908-4d05-a048-48f91b302194" />
+Excel Report (Stress Test) <img width="1216" height="293" alt="Stress test strategy" src="https://github.com/user-attachments/assets/e2f5323c-7d18-4f59-bece-a8698d1f5ba1" />
+
 
 - Author: Syed Shahanur Mahmud Pranto
 - Email: prantosm33@gmail.com
